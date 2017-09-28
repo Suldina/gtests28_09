@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class SumTest {
 
-    String extectedName = "Sum";
+    String extectedName = "sum";
     Sum summary= new Sum(extectedName);
 
     @Test

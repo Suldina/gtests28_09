@@ -3,7 +3,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class SubstrTest {
-    String extectedName = "subtraction";
+    String extectedName = "subtract";
     Subtraction subtraction= new Subtraction(extectedName);
 
     @Test

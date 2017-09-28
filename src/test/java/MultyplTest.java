@@ -3,7 +3,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class MultyplTest {
-    String extectedName = "multiplication";
+    String extectedName = "multiply";
     Multiplication multiplication = new Multiplication(extectedName);
 
     @Test
